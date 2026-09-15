@@ -1,3 +1,4 @@
+![College Management System](thumbnail.png)
 # College Management System
 
 A web-based College Management System developed using PHP and MySQL.
